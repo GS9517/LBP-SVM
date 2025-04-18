@@ -1,7 +1,3 @@
-当然可以！下面是**完整的原始 Markdown 源码版本**的 `README.md`，你可以直接复制粘贴到 GitHub，**所有加粗的部分都使用 `**` 标出，完全保留 Markdown 语法标记**，不会被渲染成粗体。
-
----
-
 ```markdown
 # 🛰️ LBP-SVM: Aerial Landscape Image Classification
 
@@ -114,9 +110,3 @@ For issues, questions, or suggestions, feel free to open an issue or reach out!
 
 > Created with ❤️ by **[Your Name]**
 ```
-
----
-
-✅ 复制这段内容直接粘贴到 GitHub 上的 `README.md` 中，就会正确渲染出你想要的加粗标题、表格、代码块等。
-
-需要我帮你自动加徽章、加中文版本或者一键部署说明也可以继续说～
