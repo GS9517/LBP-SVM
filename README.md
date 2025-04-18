@@ -1,4 +1,3 @@
-```markdown
 # 🛰️ LBP-SVM: Aerial Landscape Image Classification
 
 This repository contains an implementation of aerial image classification using **Local Binary Pattern (LBP)** features and an **SVM classifier**.
@@ -108,5 +107,4 @@ Trained models (`.joblib`) and plots will be automatically saved.
 
 For issues, questions, or suggestions, feel free to open an issue or reach out!
 
-> Created with ❤️ by **[Your Name]**
-```
+> Created with ❤️ by **Liwenqing Liu**
